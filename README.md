@@ -8,7 +8,7 @@ In 2016, as a postdoctoral researcher, I joined a Hewlett Packard/PUCRS project 
 
 For a complete description of my activities, check out my [Page](https://rogergranada.github.io/) or my curriculum [Lattes](http://lattes.cnpq.br/8302681523696256). For a brief description, check out my [CV](data/cv_granada.pdf)
 
-
+---
 ### Check out my latest projects 🤓
 
 [<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/pipeline_haprec.svg" align="left" width="200" />](https://youtu.be/eb_6I6dzrEE)
