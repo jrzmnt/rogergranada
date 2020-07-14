@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there, I'm Roger :man_technologist</h2>
+<h2 align='center'> Hi there, I'm Roger :man_technologist:</h2>
 
 I am graduated in Systems Development and Analysis from the Catholic University of Pelotas ([UCPel](http://www.ucpel.tche.br/portal/)), Brazil. During my under graduation, I worked with research in recommender systems at the System Information Research Group (GPSI) using text mining to build user's profile to recommender systems. In 2009, I joined the Hewlett Packard/PUCRS Research Centre in Automating Privacy Assessments using Ontologies, in cooperation with the HP Labs from Princeton. In that project I worked with automatic thesaurus construction and ontologies on the privacy domain. Two years later I received the Master's degree in Computer Science from Pontifical Catholic University of Rio Grande do Sul ([PUCRS](http://www.pucrs.br/)) for a thesis involving automatic thesaurus construction. 
 
