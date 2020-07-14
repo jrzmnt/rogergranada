@@ -17,12 +17,14 @@ For a complete description of my activities, check out my [Page](https://rogergr
 [<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/pipeline_ijcnn.svg" align="left" width="200" />](https://youtu.be/jlTUoxX_fiw)
         **[IJCNN 2020: Augmented Behavioral Cloning from Observation](https://youtu.be/jlTUoxX_fiw)**<br/>
 
+<br><br><br><br><br><br>
+
 ---
 
 <p align='center'>
-<a href="https://twitter.com/rogergranada"><img src="twitter.svg" alt="Twitter"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/rogergranada"><img src="instagram.svg" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/rogergranada"><img src="in.svg" alt="LinkedIn"/></a>
+<a href="https://twitter.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/twitter.svg" alt="Twitter"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" alt="LinkedIn"/></a>
 </p>
 
 <p align='center'>
