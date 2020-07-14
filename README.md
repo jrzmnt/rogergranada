@@ -11,10 +11,10 @@ For a complete description of my activities, check out my [Page](https://rogergr
 ---
 ### Check out my latest projects 🤓
 
-[<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/pipeline_haprec.svg" align="left" width="200" />](https://youtu.be/eb_6I6dzrEE)
+[<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/pipeline_haprec.svg" align="left" width="300" />](https://youtu.be/eb_6I6dzrEE)
         **[HAPRec: Hybrid Activity and Plan Recognizer](https://youtu.be/eb_6I6dzrEE)**<br/>
 <img align="center" width="100%" height="0" />
-[<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/pipeline_ijcnn.svg" align="left" width="200" />](https://youtu.be/jlTUoxX_fiw)
+[<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/pipeline_ijcnn.svg" align="left" width="300" />](https://youtu.be/jlTUoxX_fiw)
         **[IJCNN 2020: Augmented Behavioral Cloning from Observation](https://youtu.be/jlTUoxX_fiw)**<br/>
 
 <br><br><br><br><br><br>
