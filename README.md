@@ -22,11 +22,11 @@ For a complete description of my activities, check out my [Page](https://rogergr
 ---
 
 <p align='center'>
-<a href="https://twitter.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/twitter.svg" alt="Twitter"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="http://lattes.cnpq.br/8302681523696256"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/lattes.svg" alt="Lattes"/></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=CMM8xHUAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/scholar.svg" alt="Scholar"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/8302681523696256"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/lattes.svg" width="40px" alt="Lattes"/></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=CMM8xHUAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
 <a href="https://dblp.uni-trier.de/pers/hd/g/Granada:Roger"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/dblp.svg" width="40px" alt="DBLP"/></a>
 </p>
 
