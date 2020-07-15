@@ -22,6 +22,7 @@ For a complete description of my activities, check out my [Page](https://rogergr
 ---
 
 <p align='center'>
+<a href="https://rogergranada.github.io/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rogergranada"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
