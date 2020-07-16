@@ -31,7 +31,4 @@ For a complete description of my activities, check out my [Page](https://rogergr
 <a href="https://dblp.uni-trier.de/pers/hd/g/Granada:Roger"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/dblp.svg" width="40px" alt="DBLP"/></a>
 </p>
 
-<p align='center'>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogergranada.rogergranada)
-</p>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rogergranada.rogergranada)
