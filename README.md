@@ -34,3 +34,5 @@ For a complete description of my activities, check out my [Page](https://rogergr
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=rogergranada.rogergranada"></a>
 </p>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogergranada.rogergranada)
