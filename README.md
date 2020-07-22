@@ -32,6 +32,5 @@ For a complete description of my activities, check out my [Page](https://rogergr
 </p>
 
 <p align='center'>
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7546864&style=0007&nbdigits=5&type=page&initCount=0" title="Visitors" Alt="counter free"   border="0" >
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rogergranada/rogergranada/" alt="Hits" />
 </p>
