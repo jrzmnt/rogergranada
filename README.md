@@ -32,6 +32,6 @@ For a complete description of my activities, check out my [Page](https://rogergr
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=rogergranada.rogergranada"></a>
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7546864&style=0007&nbdigits=5&type=page&initCount=0" title="Visitors" Alt="counter free"   border="0" >
 </p>
-
